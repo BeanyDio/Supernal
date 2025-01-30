@@ -13,6 +13,4 @@
 > 
 > Turned off Windows Defender [(for stupid users)](https://www.youtube.com/watch?v=TjqzYG_01do)
 
-**If you want to download release (builded version), check out git Releases**
-
-**And also, you can find out Bootstapper source code in the bootstapper folder**
+**If you want to download release (builded version), check out git [Releases](https://github.com/BeanyDio/Supernal/releases/tag/Supernal_V0.2.5)**
