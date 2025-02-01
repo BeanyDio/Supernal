@@ -14,3 +14,10 @@
 > Turned off Windows Defender [(for stupid users)](https://www.youtube.com/watch?v=TjqzYG_01do)
 
 **If you want to download release (builded version), check out git [Releases](https://github.com/BeanyDio/Supernal/releases/tag/Supernal_V0.2.5)**
+
+## 📥 Download & Installation
+> 1. Download Supernal.rar
+>
+> 2. Extract the files and run the Supernal.exe
+>
+> 4. Launch Supernal and start executing scripts!
