@@ -1,10 +1,10 @@
 ![image](https://github.com/user-attachments/assets/7f362449-609d-4d9b-9be4-95d358f95050)
-# **SUPERNAL TOOL - 92% UNC | 85% sUNC**
+# **SUPERNAL IDE - 92% UNC | 85% sUNC**
 
-## 💕 About tool's DLL
-> Uses : Internal C++ Supernal.dll
+## 💕 About Supernal DLL
+> Using: Internal C++ Supernal.dll
 > 
-> UNC::sUNC Statistics : 92% UNC | 85% sUNC
+> UNC | sUNC Statistics : 92% UNC | 85% sUNC
 ## 😊 Requirements
 > Have installed .NET Framework 4.8
 > 
@@ -15,8 +15,10 @@
 **If you want to download release (builded version), check out git [Releases](https://github.com/BeanyDio/Supernal/releases/)**
 
 ## 📥 Download & Installation
-> 1. Download Supernal.rar
+> 1. Read LICENSE.
 >
-> 2. Extract the files and run the Supernal.exe
+> 2. Download Supernal.rar
 >
-> 3. Launch Supernal and start executing scripts!
+> 3. Extract the files and run the Supernal.exe
+>
+> 4. Launch Supernal and start executing scripts!
