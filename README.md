@@ -15,7 +15,7 @@
 **If you want to download release (builded version), check out git [Releases](https://github.com/BeanyDio/Supernal/releases/)**
 
 ## 📥 Download & Installation
-> 1. Read LICENSE.
+> 1. Read [LICENSE](https://github.com/BeanyDio/Supernal/blob/main/LICENSE)
 >
 > 2. Download Supernal.rar
 >
